@@ -1,5 +1,5 @@
 ## Descripcion 🗂️📂
-Este es un portafolio creado con Html% y CSS.
+Este es un portafolio creado con Html5 y CSS.
 
 ## Autor 💻🛠️
 **Manuel Garcia**
