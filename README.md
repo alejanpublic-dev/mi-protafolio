@@ -1,22 +1,22 @@
 ## Descripcion
 Este es un portafolio creado con Html% y CSS.
 
-##Autor -
+##Autor 💻🛠️
 **Manuel Garcia**
 
 *[linkedin](https://www.linkedin.com/in/alejanpublic-dev/)
 *[Portafolio Web](https://www.alejanpublic-dev.com.ar)
 
-## Ver ejemplo en vivo
+## Ver ejemplo en vivo 📊
 - [ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
 
-##Instalacion
+## Instalacion ⚙️
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
 
-## Contratacion 
+## Contratacion 📲
 Si quieres contratarme puedes escribirme a alejanpublic.dev@gmai.com
 
-## Lincencia
+## Lincencia📧
 MIT Public License v3.0
 No puede usarse comercialmente.
 
