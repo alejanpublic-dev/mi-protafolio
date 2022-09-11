@@ -8,7 +8,7 @@ Este es un portafolio creado con Html5 y CSS.
 *[Portafolio Web](https://www.alejanpublic-dev.com.ar)
 
 ## Ver ejemplo en vivo 📊
-- [ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
+🌎  https://alejanpublic-dev.github.io/mi-protafolio/
 
 ## Instalacion ⚙️
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
