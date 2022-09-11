@@ -1,7 +1,7 @@
-## Descripcion
+## Descripcion 🗂️📂
 Este es un portafolio creado con Html% y CSS.
 
-##Autor 💻🛠️
+## Autor 💻🛠️
 **Manuel Garcia**
 
 *[linkedin](https://www.linkedin.com/in/alejanpublic-dev/)
