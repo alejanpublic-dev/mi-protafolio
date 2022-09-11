@@ -14,7 +14,7 @@ Este es un portafolio creado con Html5 y CSS.
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
 
 ## Contratacion 📲
-Si quieres contratarme puedes escribirme a alejanpublic.dev@gmai.com
+Si quieres contratarme puedes escribirme a alejanpublic.dev@gmaiL.com
 
 ## Lincencia📧
 MIT Public License v3.0
